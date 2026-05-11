@@ -21,6 +21,14 @@ https://github.com/miladev-ent
     <img src="https://skillicons.dev/icons?i=laravel,mysql,mongo,phpstorm,nextjs,tailwindcss,webstorm,gitlab,linux" />
   </a>
 </p>
+
+## 🚀 My Portfolio
+
+> "Debugging: Being the detective in a crime movie where you are also the murderer."  
+> *— Me, every Friday night*
+
+🔗 **[Check out my work](https://my-portfolio-nextjs-784d88.gitpage.ir/)** | *No, the code doesn't have any bugs... that I'm aware of* 😅
+
 <!--
 <p align="center">
   <a href="https://skillicons.dev">
