@@ -24,10 +24,7 @@ https://github.com/miladev-ent
 
 ## 🚀 My Portfolio
 
-> "Debugging: Being the detective in a crime movie where you are also the murderer."  
-> *— Me, every Friday night*
-
-🔗 **[Check out my work](https://my-portfolio-nextjs-784d88.gitpage.ir/)** | *No, the code doesn't have any bugs... that I'm aware of* 😅
+🔗 **[Check out my work](https://my-portfolio-nextjs-3le.pages.dev/)**
 
 <!--
 <p align="center">
