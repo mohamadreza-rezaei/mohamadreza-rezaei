@@ -68,10 +68,10 @@ Backend Developer with **3+ years of experience** building scalable web applicat
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://hamgit.ir/mohamadreza_rezaei/corekit-laravel">
+  <a href="https://github.com/mohamadreza-rezaei/corekit-laravel">
     <img src="https://img.shields.io/badge/CoreKit_Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="CoreKit Laravel"/>
   </a>
-  <a href="https://hamgit.ir/mohamadreza_rezaei/structured-docs-laravel">
+  <a href="https://github.com/mohamadreza-rezaei/laravel-structured-docs">
     <img src="https://img.shields.io/badge/Structured_Docs-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Structured Docs"/>
   </a>
   <a href="https://mylinks.mohamadreza-rezaei.workers.dev/site">
@@ -82,10 +82,10 @@ Backend Developer with **3+ years of experience** building scalable web applicat
   </a>
 </p>
 
-> 🚀 **[CoreKit Laravel](https://hamgit.ir/mohamadreza_rezaei/corekit-laravel)** — Production-ready Laravel starter kit with Auth + FilamentPHP
+> 🚀 **[CoreKit Laravel](https://github.com/mohamadreza-rezaei/corekit-laravel)** — Production-ready Laravel starter kit with Auth + FilamentPHP
 > `Laravel · FilamentPHP · Redis`
 
-> 📚 **[Structured Docs Platform](https://hamgit.ir/mohamadreza_rezaei/structured-docs-laravel)** — Team documentation platform with Markdown + Version Control
+> 📚 **[Structured Docs Platform](https://github.com/mohamadreza-rezaei/laravel-structured-docs)** — Team documentation platform with Markdown + Version Control
 > `Laravel · React · Redis`
 
 > 🎨 **[Portfolio Website](https://mylinks.mohamadreza-rezaei.workers.dev/site)** — Personal bilingual portfolio (FA/EN) with RTL/LTR support
