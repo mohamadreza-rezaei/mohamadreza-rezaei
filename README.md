@@ -74,7 +74,7 @@ Backend Developer with **3+ years of experience** building scalable web applicat
   <a href="https://hamgit.ir/mohamadreza_rezaei/structured-docs-laravel">
     <img src="https://img.shields.io/badge/Structured_Docs-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Structured Docs"/>
   </a>
-  <a href="https://my-portfolio-nextjs-3le.pages.dev/">
+  <a href="https://mylinks.mohamadreza-rezaei.workers.dev/site">
     <img src="https://img.shields.io/badge/Portfolio_(Bilingual)-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/mohamadreza-rezaei/time_series_prediction_flask_api">
@@ -88,7 +88,7 @@ Backend Developer with **3+ years of experience** building scalable web applicat
 > 📚 **[Structured Docs Platform](https://hamgit.ir/mohamadreza_rezaei/structured-docs-laravel)** — Team documentation platform with Markdown + Version Control
 > `Laravel · React · Redis`
 
-> 🎨 **[Portfolio Website](https://my-portfolio-nextjs-3le.pages.dev/)** — Personal bilingual portfolio (FA/EN) with RTL/LTR support
+> 🎨 **[Portfolio Website](https://mylinks.mohamadreza-rezaei.workers.dev/site)** — Personal bilingual portfolio (FA/EN) with RTL/LTR support
 > `Next.js · TypeScript · TailwindCSS`
 
 > 🤖 **[Stock Price Prediction](https://github.com/mohamadreza-rezaei/time_series_prediction_flask_api)** — ML backend for stock market prediction (Thesis project)
