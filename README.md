@@ -96,6 +96,44 @@ Backend Developer with **3+ years of experience** building scalable web applicat
 
 ---
 
+### 🏗️ Builtly
+
+<div align="center">
+
+**A platform where builders meet — assembling expert teams to ship quality software**
+
+🌐 **[builtly.ir](https://builtly.ir)**
+
+</div>
+
+**🛠️ Services**
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Full--Stack-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Marketing-FF6B6B?style=flat-square&logo=googleanalytics&logoColor=white" alt="Marketing"/>
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" alt="SEO"/>
+</p>
+
+**👥 Currently Hiring**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend_Developer-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend Dev"/>
+  <img src="https://img.shields.io/badge/DevOps_Engineer-F05032?style=flat-square&logo=git&logoColor=white" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/AI_Engineer-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI Engineer"/>
+</p>
+
+<p align="center">
+  <a href="https://builtly.ir">
+    <img src="https://img.shields.io/badge/🚀_Visit_Builtly-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Builtly"/>
+  </a>
+  <a href="https://builtly.ir">
+    <img src="https://img.shields.io/badge/💼_Join_The_Team-06D6A0?style=for-the-badge&logo=handshake&logoColor=white" alt="Join Team"/>
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
