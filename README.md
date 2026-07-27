@@ -16,9 +16,9 @@
 
 Backend Developer with **3+ years of experience** building scalable web applications with Laravel and PHP. I focus on clean architecture, performance optimization, and writing code that's maintainable, testable, and production-ready.
 
-- 🎓 M.Sc. Computer Engineering (AI) — Urmia University · GPA: **17.04/20**
-- 💼 Currently working at **Shab** (Travel & Tourism Platform)
-- 🌐 Available for **remote work** and international opportunities
+- 🎓 M.Sc. Computer Engineering (AI) — Urmia University · GPA: **17.04/20** · [mohamadreza.id.ir](https://mylinks.mohamadreza-rezaei.workers.dev/site)
+- 💼 Currently working at **Shab** (Travel & Tourism Platform) · [Shab.ir](https://shab.ir)
+- 🌐 Available for **remote work** and international opportunities · [Resume](https://mylinks.mohamadreza-rezaei.workers.dev/cv) · [Builtly.ir](https://mylinks.mohamadreza-rezaei.workers.dev/work)
 
 ---
 
@@ -102,7 +102,7 @@ Backend Developer with **3+ years of experience** building scalable web applicat
 
 **A platform where builders meet — assembling expert teams to ship quality software**
 
-🌐 **[builtly.ir](https://builtly.ir)**
+🌐 **[builtly.ir](https://mylinks.mohamadreza-rezaei.workers.dev/work)**
 
 </div>
 
@@ -124,10 +124,10 @@ Backend Developer with **3+ years of experience** building scalable web applicat
 </p>
 
 <p align="center">
-  <a href="https://builtly.ir">
+  <a href="https://mylinks.mohamadreza-rezaei.workers.dev/work">
     <img src="https://img.shields.io/badge/🚀_Visit_Builtly-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Builtly"/>
   </a>
-  <a href="https://builtly.ir">
+  <a href="https://mylinks.mohamadreza-rezaei.workers.dev/work">
     <img src="https://img.shields.io/badge/💼_Join_The_Team-06D6A0?style=for-the-badge&logo=handshake&logoColor=white" alt="Join Team"/>
   </a>
 </p>
