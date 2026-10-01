@@ -6,7 +6,7 @@
 
 **Full-stack Developer · Laravel & Next.js · M.Sc. Computer Engineering**
 
-📍 Tehran, Iran · 🌍 Open to remote opportunities · 👤 [Public Profile](https://mylinks.mreza-rezaei.workers.dev/me)
+📍 Tehran, Iran · 🌍 Open to remote opportunities · 👤 [Public Profile](https://links.mohamadreza.id.ir/me)
 
 </div>
 
@@ -16,9 +16,9 @@
 
 Full-stack Developer with **3+ years of experience** building web applications. I currently work with Laravel and Next.js, focusing on clean architecture, performance, and production-ready code.
 
-- 🎓 M.Sc. Computer Engineering (AI) — Urmia University · GPA: **17.04/20** · [mohamadreza.id.ir](https://mylinks.mreza-rezaei.workers.dev/site)
+- 🎓 M.Sc. Computer Engineering (AI) — Urmia University · GPA: **17.04/20** · [mohamadreza.id.ir](https://links.mohamadreza.id.ir/site)
 - 💼 Currently working at **Shab** (Travel & Tourism Platform) · [Shab.ir](https://shab.ir)
-- 🌐 Available for **remote work** and international opportunities · [Resume](https://mylinks.mreza-rezaei.workers.dev/cv) · [Builtly.ir](https://mylinks.mreza-rezaei.workers.dev/work)
+- 🌐 Available for **remote work** and international opportunities · [Resume](https://links.mohamadreza.id.ir/cv) · [Builtly.ir](https://links.mohamadreza.id.ir/work)
 
 ---
 
@@ -74,7 +74,7 @@ Full-stack Developer with **3+ years of experience** building web applications. 
   <a href="https://github.com/mohamadreza-rezaei/laravel-structured-docs">
     <img src="https://img.shields.io/badge/Structured_Docs-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Structured Docs"/>
   </a>
-  <a href="https://mylinks.mreza-rezaei.workers.dev/site">
+  <a href="https://links.mohamadreza.id.ir/site">
     <img src="https://img.shields.io/badge/Portfolio_(Bilingual)-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/mohamadreza-rezaei/time_series_prediction_flask_api">
@@ -97,7 +97,7 @@ Full-stack Developer with **3+ years of experience** building web applications. 
 > 📚 **[Structured Docs Platform](https://github.com/mohamadreza-rezaei/laravel-structured-docs)** — Team documentation platform with Markdown + Version Control
 > `Laravel · React · Redis`
 
-> 🎨 **[Portfolio Website](https://mylinks.mreza-rezaei.workers.dev/site)** — Personal bilingual portfolio (FA/EN) with RTL/LTR support
+> 🎨 **[Portfolio Website](https://links.mohamadreza.id.ir/site)** — Personal bilingual portfolio (FA/EN) with RTL/LTR support
 > `Next.js · TypeScript · TailwindCSS`
 
 > 🤖 **[Stock Price Prediction](https://github.com/mohamadreza-rezaei/time_series_prediction_flask_api)** — ML backend for stock market prediction (Thesis project)
@@ -120,7 +120,7 @@ Full-stack Developer with **3+ years of experience** building web applications. 
 
 **A platform where builders meet — assembling expert teams to ship quality software**
 
-🌐 **[builtly.ir](https://mylinks.mreza-rezaei.workers.dev/work)**
+🌐 **[builtly.ir](https://links.mohamadreza.id.ir/work)**
 
 </div>
 
@@ -142,10 +142,10 @@ Full-stack Developer with **3+ years of experience** building web applications. 
 </p>
 
 <p align="center">
-  <a href="https://mylinks.mreza-rezaei.workers.dev/work">
+  <a href="https://links.mohamadreza.id.ir/work">
     <img src="https://img.shields.io/badge/🚀_Visit_Builtly-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Builtly"/>
   </a>
-  <a href="https://mylinks.mreza-rezaei.workers.dev/work">
+  <a href="https://links.mohamadreza.id.ir/work">
     <img src="https://img.shields.io/badge/💼_Join_The_Team-06D6A0?style=for-the-badge&logo=handshake&logoColor=white" alt="Join Team"/>
   </a>
 </p>
@@ -180,16 +180,16 @@ Full-stack Developer with **3+ years of experience** building web applications. 
 
 **📄 Professional**
 
-[<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>](https://mylinks.mreza-rezaei.workers.dev/cv)
-[<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>](https://mylinks.mreza-rezaei.workers.dev/lt)
-[<img src="https://img.shields.io/badge/Working_Hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white" alt="Working Time"/>](https://mylinks.mreza-rezaei.workers.dev/wk)
+[<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>](https://links.mohamadreza.id.ir/cv)
+[<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>](https://links.mohamadreza.id.ir/lt)
+[<img src="https://img.shields.io/badge/Working_Hours-FF6B6B?style=for-the-badge&logo=clockify&logoColor=white" alt="Working Time"/>](https://links.mohamadreza.id.ir/wk)
 
 **🌐 Social & Portfolio**
 
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>](https://mylinks.mreza-rezaei.workers.dev/site)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://mylinks.mreza-rezaei.workers.dev/li)
-[<img src="https://img.shields.io/badge/Hamgit-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Hamgit"/>](https://mylinks.mreza-rezaei.workers.dev/gl)
-[<img src="https://img.shields.io/badge/LaraMap-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="LaraMap"/>](https://mylinks.mreza-rezaei.workers.dev/lm)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>](https://links.mohamadreza.id.ir/site)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://links.mohamadreza.id.ir/li)
+[<img src="https://img.shields.io/badge/Hamgit-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Hamgit"/>](https://links.mohamadreza.id.ir/gl)
+[<img src="https://img.shields.io/badge/LaraMap-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="LaraMap"/>](https://links.mohamadreza.id.ir/lm)
 
 </div>
 
