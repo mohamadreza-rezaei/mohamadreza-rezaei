@@ -2,9 +2,9 @@
 
 # Hi there, I'm Mohamadreza Rezaei 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Laravel+Specialist+%F0%9F%A7%AA;M.Sc+Computer+Engineering+%F0%9F%8E%93;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%F0%9F%92%BB;Laravel+%26+Next.js+Developer+%F0%9F%A7%AA;M.Sc+Computer+Engineering+%F0%9F%8E%93;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
 
-**Backend Developer · Laravel Specialist · M.Sc. Computer Engineering**
+**Full-stack Developer · Laravel & Next.js · M.Sc. Computer Engineering**
 
 📍 Tehran, Iran · 🌍 Open to remote opportunities · 👤 [Public Profile](https://mylinks.mreza-rezaei.workers.dev/me)
 
@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-Backend Developer with **3+ years of experience** building scalable web applications with Laravel and PHP. I focus on clean architecture, performance optimization, and writing code that's maintainable, testable, and production-ready.
+Full-stack Developer with **3+ years of experience** building web applications. I currently work with Laravel and Next.js, focusing on clean architecture, performance, and production-ready code.
 
 - 🎓 M.Sc. Computer Engineering (AI) — Urmia University · GPA: **17.04/20** · [mohamadreza.id.ir](https://mylinks.mreza-rezaei.workers.dev/site)
 - 💼 Currently working at **Shab** (Travel & Tourism Platform) · [Shab.ir](https://shab.ir)
@@ -80,6 +80,15 @@ Backend Developer with **3+ years of experience** building scalable web applicat
   <a href="https://github.com/mohamadreza-rezaei/time_series_prediction_flask_api">
     <img src="https://img.shields.io/badge/Stock_Prediction_(ML)-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Stock Prediction"/>
   </a>
+  <a href="https://looply.one">
+    <img src="https://img.shields.io/badge/Looply-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Looply"/>
+  </a>
+  <a href="https://aiarsenal.ir">
+    <img src="https://img.shields.io/badge/AI_Arsenal-FF6F00?style=flat-square&logo=probot&logoColor=white" alt="AI Arsenal"/>
+  </a>
+  <a href="https://ailab.looply.one">
+    <img src="https://img.shields.io/badge/AI_Lab-6C5CE7?style=flat-square&logo=openai&logoColor=white" alt="AI Lab"/>
+  </a>
 </p>
 
 > 🚀 **[CoreKit Laravel](https://github.com/mohamadreza-rezaei/corekit-laravel)** — Production-ready Laravel starter kit with Auth + FilamentPHP
@@ -93,6 +102,15 @@ Backend Developer with **3+ years of experience** building scalable web applicat
 
 > 🤖 **[Stock Price Prediction](https://github.com/mohamadreza-rezaei/time_series_prediction_flask_api)** — ML backend for stock market prediction (Thesis project)
 > `Flask · TensorFlow · LSTM`
+
+> 🔁 **[Looply](https://looply.one)** — Smart workflow automation platform for connecting services and running tasks automatically
+> `Workflow Automation · AI`
+
+> ⚔️ **[AI Arsenal](https://aiarsenal.ir)** — Curated directory of AI tools, agents, frameworks, MCP servers, skills, and automation projects
+> `AI · MCP · Automation`
+
+> 🧠 **[AI Lab](https://ailab.looply.one)** — Self-hosted AI infrastructure dashboard for accessing and monitoring services and active models
+> `AI Infrastructure · Self-hosted · APIs`
 
 ---
 
