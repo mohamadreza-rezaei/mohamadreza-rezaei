@@ -2,9 +2,9 @@
 
 # Hi there, I'm Mohamadreza Rezaei 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%F0%9F%92%BB;Laravel+%26+Next.js+Developer+%F0%9F%A7%AA;M.Sc+Computer+Engineering+%F0%9F%8E%93;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
 
-**Full-stack Developer · Laravel & Next.js · M.Sc. Computer Engineering**
+
+**AI Application Engineer | Backend**
 
 📍 Tehran, Iran · 🌍 Open to remote opportunities · 👤 [Public Profile](https://links.mohamadreza.id.ir/me)
 
@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-Full-stack Developer with **3+ years of experience** building web applications. I currently work with Laravel and Next.js, focusing on clean architecture, performance, and production-ready code.
+My strongest experience is backend development with PHP and Laravel, including my work at Shab. More recently, I have built AI applications and workflow automation with n8n, LiteLLM and Open WebUI using coding-agent assistance. My MCP tooling and RAG prototypes are assisted implementations; I am continuing to strengthen my independent skills in these areas.
 
 - 🎓 M.Sc. Computer Engineering (AI) — Urmia University · GPA: **17.04/20** · [mohamadreza.id.ir](https://links.mohamadreza.id.ir/site)
 - 💼 Currently working at **Shab** (Travel & Tourism Platform) · [Shab.ir](https://shab.ir)
@@ -24,25 +24,9 @@ Full-stack Developer with **3+ years of experience** building web applications. 
 
 ### ⚡ What I Bring to the Table
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Test_Coverage_+350%25_(14→63%25)-06D6A0?style=for-the-badge&logo=vitest&logoColor=white&labelColor=073B4C" alt="Test Coverage"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Page_Load_2×_Faster_(-42%25)-118AB2?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=073B4C" alt="Page Load"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MTTR_89%25_Faster_(45min→5min)-EF476F?style=for-the-badge&logo=grafana&logoColor=white&labelColor=073B4C" alt="MTTR"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/API_Documentation_250+_Endpoints-FFD166?style=for-the-badge&logo=swagger&logoColor=black&labelColor=073B4C" alt="API Documentation"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cron_Jobs_-75%25_Execution_Time-8338EC?style=for-the-badge&logo=linux&logoColor=white&labelColor=073B4C" alt="Cron Jobs"/>
-</p>
+- Laravel/PHP backend development and API integrations.
+- API testing, backend documentation and application maintenance.
+- AI applications and workflow automation built with coding-agent assistance.
 
 ---
 
@@ -53,12 +37,12 @@ Full-stack Developer with **3+ years of experience** building web applications. 
   <a href="#"><img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,mongodb" alt="Backend"/></a>
 </p>
 
-**🎨 Frontend**
+**🎨 Frontend — agent-assisted project work**
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" alt="Frontend"/></a>
 </p>
 
-**🚀 DevOps & Tools**
+**🚀 Tools & deployment — project experience, including agent-assisted setup**
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=docker,gitlab,git,linux,github" alt="DevOps"/></a>
 </p>
@@ -91,7 +75,7 @@ Full-stack Developer with **3+ years of experience** building web applications. 
   </a>
 </p>
 
-> 🚀 **[CoreKit Laravel](https://github.com/mohamadreza-rezaei/corekit-laravel)** — Production-ready Laravel starter kit with Auth + FilamentPHP
+> 🚀 **[CoreKit Laravel](https://github.com/mohamadreza-rezaei/corekit-laravel)** — Laravel backend starter for reusable project setup
 > `Laravel · FilamentPHP · Redis`
 
 > 📚 **[Structured Docs Platform](https://github.com/mohamadreza-rezaei/laravel-structured-docs)** — Team documentation platform with Markdown + Version Control
@@ -109,8 +93,8 @@ Full-stack Developer with **3+ years of experience** building web applications. 
 > ⚔️ **[AI Arsenal](https://aiarsenal.ir)** — Curated directory of AI tools, agents, frameworks, MCP servers, skills, and automation projects
 > `AI · MCP · Automation`
 
-> 🧠 **[AI Lab](https://ailab.looply.one)** — Self-hosted AI infrastructure dashboard for accessing and monitoring services and active models
-> `AI Infrastructure · Self-hosted · APIs`
+> 🧠 **[AI Lab Pro UI](https://github.com/mohamadreza-rezaei/ai-lab-pro-ui)** — Dashboard interface for AI Lab Pro, developed with coding-agent assistance
+> `HTML · CSS · JavaScript · Dashboard UI`
 
 ---
 
