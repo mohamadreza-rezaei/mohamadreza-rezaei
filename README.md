@@ -16,7 +16,7 @@
 
 My strongest experience is backend development with PHP and Laravel, including my work at Shab. More recently, I have built AI applications and workflow automation with n8n, LiteLLM and Open WebUI using coding-agent assistance. My MCP tooling and RAG prototypes are assisted implementations; I am continuing to strengthen my independent skills in these areas.
 
-- 🎓 M.Sc. Computer Engineering (AI) — Urmia University · GPA: **17.04/20** · [mohamadreza.id.ir](https://links.mohamadreza.id.ir/site)
+- 🎓 M.Sc. Computer Engineering — Urmia University · GPA: **17.04/20** · [mohamadreza.id.ir](https://links.mohamadreza.id.ir/site)
 - 💼 Currently working at **Shab** (Travel & Tourism Platform) · [Shab.ir](https://shab.ir)
 - 🌐 Available for **remote work** and international opportunities · [Resume](https://links.mohamadreza.id.ir/cv) · [Builtly.ir](https://links.mohamadreza.id.ir/work)
 
