@@ -47,6 +47,15 @@ My strongest experience is backend development with PHP and Laravel, including m
   <a href="#"><img src="https://skillicons.dev/icons?i=docker,gitlab,git,linux,github" alt="DevOps"/></a>
 </p>
 
+**🧠 Applied AI — project experience, including agent-assisted setup**
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square" alt="n8n"/>
+  <img src="https://img.shields.io/badge/LiteLLM-1F2937?style=flat-square" alt="LiteLLM"/>
+  <img src="https://img.shields.io/badge/Open_WebUI-64748B?style=flat-square" alt="Open WebUI"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/MCP-0EA5E9?style=flat-square" alt="MCP"/>
+</p>
+
 ---
 
 ### 🚀 Featured Projects
